@@ -1,3 +1,4 @@
+# You can read more about our project at https://nyctaxitripdataproject-9xjsimuzujwu7wajbm9npb.streamlit.app/
 # NYC Taxi Data Pipeline
 
 This project builds a scalable data pipeline to ingest, clean, and analyze the NYC Yellow Taxi Trip dataset (2016), using tools like AWS S3, Lambda, Airflow, Snowflake, and PySpark.
@@ -142,7 +143,7 @@ Scripts to create:
 This project is licensed under the [MIT License](LICENSE).
 
 
-# You can read more about our project at https://nyctaxitripdataproject-9xjsimuzujwu7wajbm9npb.streamlit.app/
+
 ## Team Members:
 - Ankit Kumar Gupta
 - Gitanshu Aneja
