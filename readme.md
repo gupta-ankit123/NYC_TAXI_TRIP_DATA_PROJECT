@@ -140,3 +140,13 @@ Scripts to create:
 ## 📎 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+# You can read more about our project at https://nyctaxitripdataproject-9xjsimuzujwu7wajbm9npb.streamlit.app/
+## Team Members:
+- Ankit Kumar Gupta
+- Gitanshu Aneja
+- Mohit Doraiburu
+- Ritesh Regar
+- Sanjeeb Sethy
+- Shatanshu Bodhke
